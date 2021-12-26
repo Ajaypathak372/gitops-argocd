@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   pullPolicy: IfNotPresent
   repository: 145664717845.dkr.ecr.ap-south-1.amazonaws.com/gitops-argocd
-  version: main-709d306
+  version: main-e5a885c
 
 imagePullSecrets: []
 nameOverride: ""
